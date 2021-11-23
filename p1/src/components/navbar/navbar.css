@@ -1,0 +1,21 @@
+.navbar {
+    background-color: #5c125b;
+}
+.nav-item a {
+    color: #fff;
+    transition: ease-in .2s;
+}
+.nav-item a:hover {
+    color: #ffff00;
+}
+.navbar-brand {
+    font-weight: bold;
+    margin-left: 20px;
+    text-decoration: white;
+}
+.nav-item{
+    font-weight: 500;
+}
+.far {
+    margin-left: 20px;
+}
